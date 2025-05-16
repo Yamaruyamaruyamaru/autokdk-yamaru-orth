@@ -1,0 +1,11 @@
+
+file_format: "1"
+id: yamaru
+name: yamaru
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble

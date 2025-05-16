@@ -1,0 +1,7 @@
+
+if SHIELD_YAMARU
+
+config ZMK_KEYBOARD_NAME
+    default "yamaru"
+
+endif
